@@ -67,6 +67,16 @@ a {
     padding-bottom: 5%;
 }
 
+#myContent p {
+    padding: 1%;
+    color: rgb(40,40,40);
+    background-color: rgb(240,240,240);
+    font-size: 130%;
+    text-align:left;
+
+
+}
+
 /*css for a elements under element with id myNavMenu*/
 #myNavMenu a {
     float: left;
@@ -92,5 +102,10 @@ footer {
     text-align: center;
     color: rgb(40,40,40);
     background-color: rgb(240,240,240);
+}
 
+/*align paragraphs and headers to the left*/
+
+#about p {
+    text-align: justify;
 }
