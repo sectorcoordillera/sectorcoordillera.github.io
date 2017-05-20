@@ -87,6 +87,13 @@ a {
     transition: all 0.5s cubic-bezier(0.4, 0, 1, 1);
 }
 
+/*css for html element with id coverPictureDiv*/
+
+#coverPictureDiv {
+    text-align: center;
+    padding: 1%;
+}
+
 /*css para el footer*/
 footer {
     position: relative;
